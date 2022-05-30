@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7XjKWX4Q8QOxnA6xuf67ZfPv8RXopBU9J2VK2ph1jwpwyIUFOR+bSQ47GZPPryQgG8o1eYrKiLZPUUVPftw6QA==",
+  "dgSpecHash": "KzEpWhbngZV0wJadbTAHsEWdc9aJ/kbVnEOISaaMYNZd2IrmNYXQ8npcEDDMkKifM031XIlQhL+KibJmD5JCwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ericc\\source\\repos\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+  "projectFilePath": "C:\\Users\\ericc\\source\\repos\\fizzbuzz\\fizzbuzz\\FizzBuzz.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

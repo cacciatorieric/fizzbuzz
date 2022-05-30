@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ericc\\source\\repos\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj": {}
+    "C:\\Users\\ericc\\source\\repos\\fizzbuzz\\fizzbuzz\\FizzBuzz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ericc\\source\\repos\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj": {
+    "C:\\Users\\ericc\\source\\repos\\fizzbuzz\\fizzbuzz\\FizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ericc\\source\\repos\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+        "projectUniqueName": "C:\\Users\\ericc\\source\\repos\\fizzbuzz\\fizzbuzz\\FizzBuzz.csproj",
         "projectName": "FizzBuzz",
-        "projectPath": "C:\\Users\\ericc\\source\\repos\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+        "projectPath": "C:\\Users\\ericc\\source\\repos\\fizzbuzz\\fizzbuzz\\FizzBuzz.csproj",
         "packagesPath": "C:\\Users\\ericc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ericc\\source\\repos\\FizzBuzz\\FizzBuzz\\obj\\",
+        "outputPath": "C:\\Users\\ericc\\source\\repos\\fizzbuzz\\fizzbuzz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ericc\\AppData\\Roaming\\NuGet\\NuGet.Config",
